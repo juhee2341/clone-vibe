@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# .idea
+clone-vibe.iml
+.gitignore
+misc.xml
+modules.xml
+runConfigurations.xml
+vcs.xml
+workspace.xml
+
